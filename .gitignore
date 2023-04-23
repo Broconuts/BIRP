@@ -1,3 +1,6 @@
 .vscode
 venv
 logs
+__pycache__
+WED_data.xlsx
+data/grids/
